@@ -1,0 +1,17 @@
+{
+  "name": "bootcamp-terminal-tests",
+  "version": "1.0.0",
+  "description": "bootcamp tests using the terminal",
+  "main": "greet.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viwe Somagaca ...Boo-Boo",
+  "license": "ISC",
+  "dependencies": {
+    "node": "0.0.0"
+  }
+}
